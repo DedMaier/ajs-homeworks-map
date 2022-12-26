@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/hwaybj8egq17s9lc?svg=true)](https://ci.appveyor.com/project/DedMaier/ajs-homeworks-map)
 
 ## Map
 
