@@ -4,7 +4,7 @@ export default class ErrorRepository {
   }
 
   translate(code) {
-    if (this.dataError.has(code) && typeof code === 'number') {
+    if (this.dataError.has(code)) {
       const result = this.dataError.get(code);
       return result;
     }
