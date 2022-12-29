@@ -1,5 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/hwaybj8egq17s9lc?svg=true)](https://ci.appveyor.com/project/DedMaier/ajs-homeworks-map)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/irve7hgu7wq3lwxo?svg=true)](https://ci.appveyor.com/project/DedMaier/ajs-homeworks-map-xikag)
 ## Map
 
 ### Легенда
@@ -13,4 +12,3 @@
 Реализуйте метод `translate(code)`, позволяющий по коду получить текст ошибки, а в случае отсутствия такого кода — возвращать строку `'Unknown error'`.
 
 Не забудьте написать Unit-тесты, которые обеспечивают 100-процентное покрытие тестируемых функций и классов.
-
